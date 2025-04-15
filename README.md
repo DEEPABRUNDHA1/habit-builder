@@ -1,6 +1,7 @@
 # Habit Builder
 
 A simple and interactive habit builder web app that helps users create, track, and manage their daily habits.
+Direct Link: https://deepabrundha1.github.io/habit-builder/
 
 ## Features
 
